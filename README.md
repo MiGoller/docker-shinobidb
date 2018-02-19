@@ -19,7 +19,8 @@ Please have a look at the official Docker Hub repository for MySQL at https://hu
     ```
 
 2. Modify the env-files (optional).
-Modify the MySQL.env and the Shinobi.env files to fit to your needs.
+
+    Modify the MySQL.env and the Shinobi.env files to fit to your needs.
     ```
     MYSQL_USER=majesticflame
     MYSQL_PASSWORD=password
